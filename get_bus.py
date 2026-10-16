@@ -6,27 +6,27 @@ from concurrent.futures import ThreadPoolExecutor
 
 courses = [
 {
-    "courseId": "0001601364",
-    "route": "41系統",
-    "destination": "下町会館経由 新横浜駅前行",
+    "courseId": "0001600078",
+    "route": "103系統",
+    "destination": "根岸台行",
     "direction": "shinyokohama"
 },
 {
-    "courseId": "0001600147",
-    "route": "41系統",
-    "destination": "太尾西住宅経由 新横浜駅前行",
+    "courseId": "0001600243",
+    "route": "103系統",
+    "destination": "旭台経由 根岸駅前行",
     "direction": "shinyokohama"
 },
 {
-    "courseId": "0001600877",
-    "route": "41系統",
-    "destination": "太尾西住宅経由 港北車庫前行",
+    "courseId": "",
+    "route": "103系統臨時急行",
+    "destination": "旭台経由 根岸駅前行",
     "direction": "shinyokohama"
 },
 {
-    "courseId": "0001600822",
-    "route": "41系統",
-    "destination": "太尾西住宅経由 鶴見駅西口行",
+    "courseId": "0001600733",
+    "route": "103系統",
+    "destination": "旭台経由 本牧車庫前行",
     "direction": "shinyokohama"
 },
 {
